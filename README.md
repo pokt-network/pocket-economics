@@ -1,7 +1,7 @@
 # Pocket Economic Design Repository
 
 ## Overview
-This repository holds all information regarding the economics for Pocket Network.
+This repository is meant for...
 
 ## Format
 The format to be used will be...
