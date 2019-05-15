@@ -1,7 +1,9 @@
 # High-Level Use Case / Developer Joining the Network
 
 ### Use Case Description
-This high-level use case describes a developer joining the Pocket Network for the first time.
+This high-level use case describes a developer joining the Pocket Network for the first time.  <br/>
+
+See below for questions and answers.
 
 ### Pre-Conditions
 The developer is not yet an actor in the Pocket Network.

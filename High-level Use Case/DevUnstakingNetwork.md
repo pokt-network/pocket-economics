@@ -17,7 +17,7 @@ The developer is an active user in the Pocket Network and has some amount of POK
 Developer, Developer Portal, System
 
 ### User Story
-I am a developer in the Pocket Network. I have been **staked for a minimum of 3 eras** (approx. 3 weeks) and I would like to unstake some amount of the POKT I have staked in the network.
+I am a developer in the Pocket Network. I have been **staked for a minimum of 3 eons** (approx. 3 weeks) and I would like to unstake some amount of the POKT I have staked in the network.
 
 1. Developer visits the developer portal.
 2. Developer logs into their account.
@@ -26,7 +26,7 @@ I am a developer in the Pocket Network. I have been **staked for a minimum of 3 
 5. System confirms.
 6. System sends returned POKT amount to developers wallet.
 
-I am a developer in the Pocket Network. I have been **staked for less than 3 eras** and I would like to unstake some amount of the POKT I have staked in the network.
+I am a developer in the Pocket Network. I have been **staked for less than 3 eons** and I would like to unstake some amount of the POKT I have staked in the network.
 
 1. Developer visits the developer portal.
 2. Developer logs into their account.
@@ -36,10 +36,10 @@ I am a developer in the Pocket Network. I have been **staked for less than 3 era
 6. Developer confirms amount to unstake
 7. System confirms.
 8. System calculates amount of POKT to burn and amount of POKT to return.
-9. System burns (appropriate amount) of POKT.
+9. System burns (appropriate amount) POKT.
 10. System sends balance of returned POKT to developers wallet.
 
-I am a developer in the Pocket Network. I have been staked for a minimum of 3 eras (approx. 3 weeks) and I would like to unstake all of the POKT I have staked in the network resulting in my exit of the network.
+I am a developer in the Pocket Network. I have been staked for a minimum of 3 eons (approx. 3 weeks) and I would like to unstake all of the POKT I have staked in the network resulting in my exit of the network.
 
 1. Developer visits the developer portal.
 2. Developer logs into their account.
@@ -50,8 +50,8 @@ I am a developer in the Pocket Network. I have been staked for a minimum of 3 er
 
 ### Questions
 1.  How often can I unstake? <br/>
-	A) A developer can enter in the amount of POKT they wish to unstake anytime but the system will only release the POKT to them at the end of the era.
-2. Do I need to wait until the end of the third era before I unstake? <br/>
+	A) A developer can enter in the amount of POKT they wish to unstake anytime but the system will only release the POKT to them at the end of the era (approx. 24 hours).
+2. Do I need to wait until the end of the third eon before I unstake? <br/>
 	A) No, a developer can unstake before the end of the third era but there will be a penalty for unstaking early (before the bonding period is over). <br/>
 3. What is the penalty for unstaking before the bonding period is over? <br/>
 	A) In the case of unstaking during the bonding period, a portion of the stake is burned while a portion is returned; the amount returned is directly proportional to how long the stake has been in the network.
