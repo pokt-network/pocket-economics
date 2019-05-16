@@ -1,19 +1,19 @@
 #High-Level Use Case / Developer Joining the Network
 
 ### Use Case Description
-This high-level use case describes a developer joining the Pocket Network for the first time.
+This high-level use case describes a developer joining the Pocket Network for the first time. <br/>
 
 ### Pre-Conditions
-The developer is not yet an actor in the Pocket Network.
+The developer is not yet an actor in the Pocket Network. <br/>
 
 ### Post-Conditions
-The developer is now an active user in the Pocket Network. The developer has staked POKT to receive some amount of relays. 
+The developer is now an active user in the Pocket Network. The developer has staked POKT to receive some amount of relays. <br/>
 
 ### Actors
-Developer, Portal, System
+Developer, Portal, System <br/>
 
 ### User Story
-I am a developer that would like to use Pocket Network's infrustructure to build a decentralized application on a blockchain. 
+I am a developer that would like to use Pocket Network's infrustructure to build a decentralized application on a blockchain. <br/>
 
 1. Developer visits the Pocket portal.
 2. Developer enters in (undefined) information.
